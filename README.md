@@ -6,4 +6,4 @@ also assist you in displaying the number of high, medium and low processors as a
 you to easily identify definition errors. In addition offload processors like zIIPs and Specialty processors like IFLs are also supported.
 You can upload or download the results from / to a zPCR study. To install the tool, download the LPAR Design Tool and
 unzip it to your workstation. The package consists of the tool (a Microsoft Excel spreadsheet) and the associated user's
-guide in the PDF format. A companion Tool called LPARDesign Extention is available now - it allows you to compare various HiperDispatch configurations and create zPCR study (with the zPCR number of 10 configurations)
+guide in the PDF format. A companion Tool called LPARDesign Extention is available now - it allows you to compare various HiperDispatch configurations and create zPCR study (with the zPCR number of 10 configurations). The product is delivered in a Digitally Signed version too.
